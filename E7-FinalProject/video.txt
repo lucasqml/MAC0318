@@ -1,0 +1,5 @@
+ERRATA: Para classificar as linhas brancas entre esquerda ou direita
+olhamos se a mesma está após ou antes do meio da imagem e não se está
+a direita ou esquerda da linha amarela
+
+Link: https://drive.google.com/file/d/1FzK2t63RuGqJ25MiZg6FMqGRMtYnGX3z/view?usp=sharing
